@@ -1,0 +1,3 @@
+Name: Anastasiia
+Age: 25
+City: Amsterdam
